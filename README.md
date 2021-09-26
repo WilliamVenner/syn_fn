@@ -1,0 +1,1 @@
+Proc attribute macro helper to capture many Syn types and define shared behaviour

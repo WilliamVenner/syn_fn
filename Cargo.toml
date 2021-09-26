@@ -1,0 +1,8 @@
+[package]
+name = "syn_squash"
+version = "0.1.0"
+edition = "2018"
+authors = ["William Venner <william@venner.io>"]
+license = "MIT"
+repository = "https://github.com/WilliamVenner/syn_squash"
+description = "Proc attribute macro helper to capture many Syn types and define shared behaviour"
